@@ -1,25 +1,26 @@
-# CourseIAAC_results
-Репозиторий-основа для материалов по дисциплине «Алгоритмы и анализ сложности»
+Анохин Максим Сергеевич
+Список заданий:
 
- Список заданий:
- ```
-Автоматное
-Перевод числа
-Алгоритм половинного деления
-Рекурсия 
-Анализ алгоритма сортировки
-```
+Автоматное:
 
-Как оформлять?
+https://docs.google.com/presentation/d/1OJsghy3SjGro3JDWgQNXUpwFQYsYXrXPX5Mmp-lUZBI/edit?usp=sharing
 
-Использовать слайды по образцу  https://kodaktor.ru/g/report_template
+https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6446
 
-Нужно в файле README вашего репозитория-ответа вставить ссылки на работающие примеры.
+Перевод числа:
 
-Если это борд кодактора, то в адресе не должно быть восклицательного и вопросительного знака, а также знака равенства.
+Типизация:
 
-Не забывайте об указании авторства всех выполненных заданий https://kodaktor.ru/g/z7a
+https://docs.google.com/presentation/d/1Xar-_4FFVlxFtd_Jdanl3O4jtwcG_jwKufvAq0GLnrE/edit?usp=sharing
+https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6450
+Алгоритм половинного деления:
+https://docs.google.com/presentation/d/1OJsghy3SjGro3JDWgQNXUpwFQYsYXrXPX5Mmp-lUZBI/edit?usp=sharing
+https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6452
+Рекурсия:
 
-Курс: https://moodle.herzen.spb.ru/course/view.php?id=2359#section-10
+https://docs.google.com/presentation/d/1xCtP7X9KYjOos1-ccuMWyXoglMuU2auaKSAAIXNXyOA/edit?usp=sharing
+https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6453
+Анализ алгоритма сортировки:
 
-Ссылка на задание: https://classroom.github.com/a/3hu6uqbA
+https://docs.google.com/presentation/d/12pj4C2W80GcR_PATirxp0t1m29JZmVCPIDjDE_hdcO4/edit?usp=sharing
+https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6454
